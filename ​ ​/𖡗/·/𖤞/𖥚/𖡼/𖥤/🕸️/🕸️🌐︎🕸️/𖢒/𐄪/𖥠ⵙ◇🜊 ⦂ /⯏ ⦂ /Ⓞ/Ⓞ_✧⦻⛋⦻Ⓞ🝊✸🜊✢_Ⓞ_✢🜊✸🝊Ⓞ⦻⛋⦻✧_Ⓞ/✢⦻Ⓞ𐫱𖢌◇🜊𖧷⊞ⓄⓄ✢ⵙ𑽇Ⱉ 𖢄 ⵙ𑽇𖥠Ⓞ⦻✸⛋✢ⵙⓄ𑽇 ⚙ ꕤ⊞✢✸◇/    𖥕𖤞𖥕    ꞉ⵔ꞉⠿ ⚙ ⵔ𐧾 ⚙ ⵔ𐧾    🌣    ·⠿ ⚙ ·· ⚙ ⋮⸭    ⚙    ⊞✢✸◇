@@ -1,0 +1,631 @@
+﻿<!DOCTYPE html> <html xmlns=http://www.w3.org/1999/xhtml><!--
+ Page saved with SingleFile 
+ url: file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/Troubleshooting%20Information.xhtml 
+ saved date: Wed Sep 09 2026 19:11:35 GMT+0300 (GMT+03:00)
+--><meta charset=utf-8>
+<meta name=color-scheme content="light dark">
+<title data-l10n-id=page-title></title>
+<script src=chrome://global/content/aboutSupport.js data-sf-original-src=chrome://global/content/aboutSupport.js></script>
+<link rel=localization href=file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/branding/brand.ftl>
+<link rel=localization href=file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/toolkit/about/aboutSupport.ftl>
+<link rel=localization href=file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/toolkit/global/resetProfile.ftl>
+<link rel=localization href=file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/toolkit/global/processTypes.ftl>
+<link rel=localization href=file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/toolkit/featuregates/features.ftl>
+<meta name=referrer content=no-referrer><link rel=icon type=image/png id=favicon href=data:, data-sf-original-href=chrome://branding/content/icon32.png></head>
+ <body class=wide-container><script type=application/json data-single-file-options>{"saveUrl":"file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/Troubleshooting%20Information.xhtml","saveDate":1788970295122,"visitDate":1788970291341,"filenameTemplate":"​ ​/𖡗/·/𖤞/𖥚/𖡼/𖥤/🕸️/🕸️🌐︎🕸️/𖢒/𐄪/{bookmark-pathname}/{url-href}/{page-title}    𖥕𖤞𖥕    {year-utc}.{month-utc}.{day-utc}    🌣    {hours-utc}.{minutes-utc}.{seconds-utc}   .   {filename-extension}","filenameReplacedCharacters":[" ",".","-",")","(","0","1","2","3","4","5","6","7","8","9","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","А","Б","В","Г","Д","Е","Ё","Ж","З","І","И","Й","К","Л","М","Н","О","П","Р","С","Т","У","Ў","Ф","Х","Ц","Ч","Ш","Щ","Ъ","Ы","Ь","Э","Ю","Я","а","б","в","г","д","е","ё","ж","з","і","и","й","к","л","м","н","о","п","р","с","т","у","ў","ф","х","ц","ч","ш","щ","ъ","ы","ь","э","ю","я","~","+","?","&","%","*",":","|","\"","<",">","\\\\","\u0000-\u001f",""],"filenameReplacementCharacter":"_","filenameReplacementCharacters":[" 𖢄 "," ⚙ ","⊹"," ᕲ "," ᕳ ","ⵔ","·","꞉","⋮","⁘","⸭","⠿","፨","❋","𐧾","⛋","𖢌","⯏","🟗","🜊","𖥠","Ⱉ","⊞","ⵙ","𐫰","✻","◇","✸","𑽇","Ⓞ","🝊","¤","⦻","𖧷","✢","𐫱","🟅","🟏","ꕤ","✧","🝱","⛋","𖢌","⯏","🟗","🜊","𖥠","Ⱉ","⊞","ⵙ","𐫰","✻","◇","✸","𑽇","Ⓞ","🝊","¤","⦻","𖧷","✢","𐫱","🟅","🟏","ꕤ","✧","🝱","⛋","⧲","𖢌","🮻","🟗","🜊","🜋","𐋅","᪥","∣","∣","ꖌ","✻","◇","✸","⊞","Ⓞ","☐","🝊","⯏","✢","✧","✦","𖥠","ꕤ","⧮","⑄","◫","⎅","❂","∣❁∣","❁","𖡛","𖥤","ⵙ","⛋","⧲","𖢌","🮻","🟗","🜊","🜋","𐋅","᪥","∣","∣","ꖌ","✻","◇","✸","⊞","Ⓞ","☐","🝊","⯏","✢","✧","✦","𖥠","ꕤ","⧮","⑄","◫","⎅","❂","∣❁∣","❁","𖡛","𖥤","ⵙ","～","＋","𖣓"," 𖥤 ","％","＊"," ⦂ ","｜","＂","＜","＞","＼"],"filenameMaxLengthUnit":"chars","filenameMaxLength":"65536","replaceEmojisInFilename":false,"compressContent":false,"selfExtractingArchive":false,"disableCompression":false,"extractDataFromPage":false,"referrer":"","title":"","info":{"description":"","lang":"","author":"","creator":"","publisher":"","heading":""}}</script>
+ <h1 data-l10n-id=page-title></h1>
+ <div class=header-flex>
+ <div class=content-flex>
+ <div class=page-subtitle data-l10n-id=page-subtitle>
+ <a id=supportLink data-l10n-name=support-link></a>
+ </div>
+ <div>
+ <button id=copy-raw-data-to-clipboard data-l10n-id=copy-raw-data-to-clipboard-label></button>
+ <button id=copy-to-clipboard data-l10n-id=copy-text-to-clipboard-label></button>
+ </div>
+ </div>
+ <div class=action-box>
+ <div id=reset-box>
+ <h3 data-l10n-id=refresh-profile></h3>
+ <button id=reset-box-button data-l10n-id=refresh-profile-button></button>
+ </div>
+ <div id=safe-mode-box>
+ <h3 data-l10n-id=troubleshoot-mode-title></h3>
+ <button id=restart-in-safe-mode-button data-l10n-id=restart-in-troubleshoot-mode-label></button>
+ </div>
+ <div id=clear-startup-cache-box>
+ <h3 data-l10n-id=clear-startup-cache-title></h3>
+ <button id=clear-startup-cache-button data-l10n-id=clear-startup-cache-label></button>
+ </div>
+ </div>
+ </div>
+ <div id=contents data-sf-nesting-track-id=1.3>
+ 
+ <h2 class=major-section id=app-basics data-l10n-id=app-basics-title></h2>
+ <table>
+ <tbody>
+ <tr>
+ <th class=column data-l10n-id=app-basics-name></th>
+ <td id=application-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-version></th>
+ <td id=version-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-build-id></th>
+ <td id=buildid-box></td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-distribution-id></th>
+ <td id=distributionid-box></td>
+ </tr>
+ <tr id=update-dir-row class=no-copy>
+ <th class=column data-l10n-id=app-basics-update-dir></th>
+ <td>
+ <button id=update-dir-button data-l10n-id=show-dir-label></button>
+ <span id=update-dir-box dir=ltr>
+ </span>
+ </td>
+ </tr>
+ <tr id=update-history-row class=no-copy>
+ <th class=column data-l10n-id=app-basics-update-history></th>
+ <td>
+ <button id=show-update-history-button data-l10n-id=app-basics-show-update-history></button>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-update-channel></th>
+ <td id=updatechannel-box></td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-user-agent></th>
+ <td id=useragent-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-os></th>
+ <td id=os-box>
+ </td>
+ </tr>
+ <tr id=os-theme-row>
+ <th class=column data-l10n-id=app-basics-os-theme></th>
+ <td id=os-theme-box>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-binary></th>
+ <td id=binary-box dir=ltr>
+ </td>
+ </tr>
+ <tr id=profile-row class=no-copy>
+ <th class=column data-l10n-id=app-basics-profile-dir></th>
+ <td>
+ <button id=profile-dir-button data-l10n-id=show-dir-label></button>
+ <span id=profile-dir-box dir=ltr>
+ </span>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-enabled-plugins></th>
+ <td>
+ <a href=about:plugins>about:plugins</a>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-build-config></th>
+ <td>
+ <a href=about:buildconfig>about:buildconfig</a>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-memory-use></th>
+ <td>
+ <a href=about:memory>about:memory</a>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-performance></th>
+ <td>
+ <a href=about:processes>about:processes</a>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-service-workers></th>
+ <td>
+ <a href=about:serviceworkers>about:serviceworkers</a>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-third-party></th>
+ <td>
+ <a href=about:third-party>about:third-party</a>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-launcher-process-status></th>
+ <td id=launcher-process-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-multi-process-support></th>
+ <td id=multiprocess-box>
+ <span id=multiprocess-box-process-count></span>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-fission-support></th>
+ <td id=fission-box>
+ <span id=fission-box-process-count></span>
+ <span id=fission-box-status></span>
+ </td>
+ </tr>
+ <tr id=remoteprocesses-row>
+ <th class=column data-l10n-id=app-basics-remote-processes-count></th>
+ <td>
+ <a href=file:///C:/O/O_YRAROPMET_O_TEMPORARY_O/Troubleshooting%20Information.xhtml#remote-processes></a>
+ </td>
+ </tr>
+ <tr id=policies-status-row>
+ <th class=column data-l10n-id=app-basics-enterprise-policies></th>
+ <td id=policies-status>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-location-service-key-google></th>
+ <td id=key-location-service-google-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-safebrowsing-key-google></th>
+ <td id=key-safebrowsing-google-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-key-mozilla></th>
+ <td id=key-mozilla-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-safe-mode></th>
+ <td id=safemode-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-memory-size></th>
+ <td id=memory-size-box>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=app-basics-disk-available></th>
+ <td id=disk-available-box>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=app-basics-profiles></th>
+ <td>
+ <a href=about:profiles>about:profiles</a>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=crashes data-l10n-id=crashes-title></h2>
+ <table id=crashes-table>
+ <thead>
+ <tr>
+ <th data-l10n-id=crashes-id></th>
+ <th data-l10n-id=crashes-send-date></th>
+ </tr>
+ </thead>
+ <tbody id=crashes-tbody>
+ </tbody>
+ </table>
+ <p id=crashes-allReports class="hidden no-copy">
+ <a href=about:crashes id=crashes-allReportsWithPending class=block data-l10n-id=crashes-all-reports></a>
+ </p>
+ <p id=crashes-noConfig class="hidden no-copy" data-l10n-id=crashes-no-config></p>
+ 
+ <h2 class=major-section id=features data-l10n-id=features-title></h2>
+ <table id=features-table>
+ <thead>
+ <tr>
+ <th data-l10n-id=features-name></th>
+ <th data-l10n-id=features-version></th>
+ <th data-l10n-id=features-id></th>
+ </tr>
+ </thead>
+ <tbody id=features-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=remote-features data-l10n-id=support-remote-features-title></h2>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.10>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.10.1>
+ <tr>
+ 
+ </tr><th data-l10n-id=support-remote-features-name data-sf-nesting-track-id=1.3.10.1.1><th data-l10n-id=support-remote-features-status data-sf-nesting-track-id=1.3.10.1.2></thead>
+ <tbody id=remote-features-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section data-l10n-id=processes-title id=remote-processes></h2>
+ <table id=remote-processes-table>
+ <thead>
+ <tr>
+ <th data-l10n-id=processes-type></th>
+ <th data-l10n-id=processes-count></th>
+ </tr>
+ </thead>
+ <tbody id=processes-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=addons data-l10n-id=support-addons-title></h2>
+ <table>
+ <thead>
+ <tr>
+ <th data-l10n-id=support-addons-name></th>
+ <th data-l10n-id=support-addons-type></th>
+ <th data-l10n-id=support-addons-version></th>
+ <th data-l10n-id=support-addons-enabled></th>
+ <th data-l10n-id=support-addons-id></th>
+ </tr>
+ </thead>
+ <tbody id=addons-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=security-software data-l10n-id=security-software-title></h2>
+ <table id=security-software-table>
+ <thead>
+ <tr>
+ <th data-l10n-id=security-software-type></th>
+ <th data-l10n-id=security-software-name></th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <th class=column data-l10n-id=security-software-antivirus></th>
+ <td id=security-software-antivirus>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=security-software-antispyware></th>
+ <td id=security-software-antispyware>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=security-software-firewall></th>
+ <td id=security-software-firewall>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=graphics data-l10n-id=graphics-title></h2>
+ <table>
+ <tbody id=graphics-features-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-features-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-gpu-1-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-gpu1-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-gpu-2-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-gpu2-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-diagnostics-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-diagnostics-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-decisions-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-decision-log-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-crashguards-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-crash-guards-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-workarounds-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-workarounds-title></th>
+ </tr>
+ </tbody>
+ <tbody id=graphics-failures-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=graphics-failure-log-title></th>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=media data-l10n-id=media-title></h2>
+ <table>
+ <tbody id=media-info-tbody>
+ </tbody>
+ <tbody id=media-output-devices-tbody>
+ <tr>
+ <th colspan=9 class=title-column data-l10n-id=media-output-devices-title></th>
+ </tr>
+ <tr>
+ <th data-l10n-id=media-device-name></th>
+ <th data-l10n-id=media-device-group></th>
+ <th data-l10n-id=media-device-vendor></th>
+ <th data-l10n-id=media-device-state></th>
+ <th data-l10n-id=media-device-preferred></th>
+ <th data-l10n-id=media-device-format></th>
+ <th data-l10n-id=media-device-channels></th>
+ <th data-l10n-id=media-device-rate></th>
+ <th data-l10n-id=media-device-latency></th>
+ </tr>
+ </tbody>
+ <tbody id=media-input-devices-tbody>
+ <tr>
+ <th colspan=9 class=title-column data-l10n-id=media-input-devices-title></th>
+ </tr>
+ <tr>
+ <th data-l10n-id=media-device-name></th>
+ <th data-l10n-id=media-device-group></th>
+ <th data-l10n-id=media-device-vendor></th>
+ <th data-l10n-id=media-device-state></th>
+ <th data-l10n-id=media-device-preferred></th>
+ <th data-l10n-id=media-device-format></th>
+ <th data-l10n-id=media-device-channels></th>
+ <th data-l10n-id=media-device-rate></th>
+ <th data-l10n-id=media-device-latency></th>
+ </tr>
+ </tbody>
+ <tbody id=media-capabilities-tbody>
+ <tr>
+ <th colspan=9 class=title-column data-l10n-id=media-capabilities-title></th>
+ </tr>
+ <tr>
+ <td colspan=9>
+ <button id=enumerate-database-button data-l10n-id=media-capabilities-enumerate></button>
+ <pre id=enumerate-database-result class="hidden no-copy"></pre>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=environment-variables data-l10n-id=environment-variables-title></h2>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.22>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.22.1>
+ <tr>
+ 
+ </tr><th class=name data-l10n-id=environment-variables-name data-sf-nesting-track-id=1.3.22.1.1><th class=value data-l10n-id=environment-variables-value data-sf-nesting-track-id=1.3.22.1.2></thead>
+ <tbody id=environment-variables-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=experimental-features data-l10n-id=experimental-features-title></h2>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.24>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.24.1>
+ <tr>
+ 
+ </tr><th class=name data-l10n-id=experimental-features-name data-sf-nesting-track-id=1.3.24.1.1><th class=value data-l10n-id=experimental-features-value data-sf-nesting-track-id=1.3.24.1.2></thead>
+ <tbody id=experimental-features-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=remote-experiments data-l10n-id=support-remote-experiments-title></h2>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.26>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.26.1>
+ <tr>
+ 
+ </tr><th data-l10n-id=support-remote-experiments-name data-sf-nesting-track-id=1.3.26.1.1><th data-l10n-id=support-remote-experiments-branch data-sf-nesting-track-id=1.3.26.1.2></thead>
+ <tbody id=remote-experiments-tbody>
+ </tbody>
+ </table>
+ <section id=about-studies-section class=no-copy>
+ <p data-l10n-id=support-remote-experiments-see-about-studies>
+ <a data-l10n-name=support-about-studies-link href=about:studies></a>
+ </p>
+ </section>
+ 
+ <h2 class=major-section id=modified-key-prefs data-l10n-id=modified-key-prefs-title></h2>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.29>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.29.1>
+ <tr>
+ 
+ </tr><th class=name data-l10n-id=modified-prefs-name data-sf-nesting-track-id=1.3.29.1.1><th class=value data-l10n-id=modified-prefs-value data-sf-nesting-track-id=1.3.29.1.2></thead>
+ <tbody id=prefs-tbody>
+ </tbody>
+ </table>
+ <section id=prefs-user-js-section class="hidden no-copy">
+ <h3 data-l10n-id=user-js-title></h3>
+ <p data-l10n-id=user-js-description>
+ <a id=prefs-user-js-link data-l10n-name=user-js-link></a>
+ </p>
+ </section>
+ 
+ <h2 class=major-section id=locked-key-prefs data-l10n-id=locked-key-prefs-title></h2>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.32>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.32.1>
+ <tr>
+ 
+ </tr><th class=name data-l10n-id=locked-prefs-name data-sf-nesting-track-id=1.3.32.1.1><th class=value data-l10n-id=locked-prefs-value data-sf-nesting-track-id=1.3.32.1.2></thead>
+ <tbody id=locked-prefs-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=place-database data-l10n-id=place-database-title></h2>
+ <table>
+ <tbody>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=place-database-integrity></th>
+ <td colspan=5>
+ <button id=verify-place-integrity-button data-l10n-id=place-database-verify-integrity></button>
+ <pre id=verify-place-result class="hidden no-copy"></pre>
+ </td>
+ </tr>
+ <tr class=no-copy>
+ <th class=column data-l10n-id=place-database-stats></th>
+ <td colspan=5>
+ <button id=place-database-stats-toggle data-l10n-id=place-database-stats-show></button>
+ </td>
+ </tr>
+ </tbody>
+ <tbody id=place-database-stats-tbody>
+ <tr>
+ <th data-l10n-id=place-database-stats-entity></th>
+ <th data-l10n-id=place-database-stats-count></th>
+ <th data-l10n-id=place-database-stats-size-kib></th>
+ <th data-l10n-id=place-database-stats-size-perc></th>
+ <th data-l10n-id=place-database-stats-efficiency-perc></th>
+ <th data-l10n-id=place-database-stats-sequentiality-perc></th>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=a11y data-l10n-id=a11y-title></h2>
+ <table>
+ <tbody>
+ <tr>
+ <th class=column data-l10n-id=a11y-activated></th>
+ <td id=a11y-activated>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=a11y-force-disabled></th>
+ <td id=a11y-force-disabled>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=a11y-instantiator></th>
+ <td id=a11y-instantiator>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=library-version data-l10n-id=library-version-title></h2>
+ <table>
+ <tbody id=libversions-tbody>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=sandbox data-l10n-id=sandbox-title></h2>
+ <table>
+ <tbody id=sandbox-tbody>
+ </tbody>
+ </table>
+ <h2 class=major-section id=startup-cache data-l10n-id=startup-cache-title></h2>
+ <table>
+ <tbody>
+ <tr>
+ <th class=column data-l10n-id=startup-cache-disk-cache-path></th>
+ <td id=startup-cache-disk-cache-path>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=startup-cache-ignore-disk-cache></th>
+ <td id=startup-cache-ignore-disk-cache>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=startup-cache-found-disk-cache-on-init></th>
+ <td id=startup-cache-found-disk-cache-on-init>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=startup-cache-wrote-to-disk-cache></th>
+ <td id=startup-cache-wrote-to-disk-cache>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ <h2 class=major-section id=intl data-l10n-id=intl-title></h2>
+ <table>
+ <tbody id=intl-localeservice-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=intl-app-title></th>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-locales-requested></th>
+ <td id=intl-locale-requested>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-locales-available></th>
+ <td id=intl-locale-available>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-locales-supported></th>
+ <td id=intl-locale-supported>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-regional-prefs></th>
+ <td id=intl-locale-regionalprefs>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-locales-default></th>
+ <td id=intl-locale-default>
+ </td>
+ </tr>
+ </tbody>
+ <tbody id=intl-ospreferences-tbody>
+ <tr>
+ <th colspan=2 class=title-column data-l10n-id=intl-os-title></th>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-os-prefs-system-locales></th>
+ <td id=intl-osprefs-systemlocales>
+ </td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=intl-regional-prefs></th>
+ <td id=intl-osprefs-regionalprefs>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=remote-debugging data-l10n-id=remote-debugging-title></h2>
+ <table>
+ <tbody>
+ <tr>
+ <th class=column data-l10n-id=remote-debugging-accepting-connections></th>
+ <td id=remote-debugging-accepting-connections></td>
+ </tr>
+ <tr>
+ <th class=column data-l10n-id=remote-debugging-url></th>
+ <td id=remote-debugging-url></td>
+ </tr>
+ </tbody>
+ </table>
+ 
+ <h2 class=major-section id=printing data-l10n-id=support-printing-title></h2>
+ <table data-sf-nesting-track-id=1.3.48>
+ <tbody>
+ </tbody><tr class=no-copy data-sf-nesting-track-id=1.3.48.1>
+ <th class=column data-l10n-id=support-printing-troubleshoot></th>
+ <td>
+ <button id=support-printing-clear-settings-button data-l10n-id=support-printing-clear-settings-button></button>
+ </td>
+ </table>
+ <h3 data-l10n-id=support-printing-modified-settings></h3>
+ <table class=prefs-table data-sf-nesting-track-id=1.3.50>
+ <thead class=no-copy data-sf-nesting-track-id=1.3.50.1>
+ <tr>
+ 
+ </tr><th class=name data-l10n-id=support-printing-prefs-name data-sf-nesting-track-id=1.3.50.1.1><th class=value data-l10n-id=support-printing-prefs-value data-sf-nesting-track-id=1.3.50.1.2></thead>
+ <tbody id=support-printing-prefs-tbody>
+ </tbody>
+ </table>
+ </div>
+ 
+<script>(function Ah(n,e,t=!1){const a={};n.currentScript&&n.currentScript.remove(),function n(t){const o=t.getAttribute(e);o&&(a[o]=t);Array.from(t.children).forEach(n)}(n.body),Object.keys(a).forEach(n=>{const e=a[n],t=n.split(".");if(t.length>1){const n=t.slice(0,-1).join("."),o=a[n];o&&e.parentElement!==o&&!e.contains(o)&&o.appendChild(e)}}),t||n.querySelectorAll("["+e+"]").forEach(n=>n.removeAttribute(e))})(document, "data-sf-nesting-track-id");</script>
